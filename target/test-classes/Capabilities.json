@@ -1,0 +1,7 @@
+{
+  "deviceName": "R58N92DMTNV",
+  "appPackage": "com.imdb.mobile",
+  "appActivity": "com.imdb.mobile.HomeActivity",
+  "platformName": "Android",
+  "platformVersion": "11"
+}
